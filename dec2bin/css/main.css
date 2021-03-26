@@ -186,7 +186,7 @@ textarea.input2{
   display: block;
   position: relative;
   z-index: 1;
-  border-radius: 2px;
+  border-radius: 42px 0px ;
   width: auto;
   overflow: hidden;
   margin: 0 auto;
