@@ -10,7 +10,7 @@ function digitalClock() {
 
     // this is for  12 hours time format 
     if (hours === 0) {
-        hours = hours - 12;
+        hours = hours;
     } else if (hours > 12) {
         hours = hours - 12;
         timeFormet = 'PM'
